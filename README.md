@@ -14,4 +14,7 @@ Um estudande de Ciência da Computação apaixonado por tecnologia, buscando apr
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
 
 # 🔎 GitHub Stats
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=leovieirad&show_icons=true&theme=dark)
+<div>
+    <img width="66%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leovieirad&theme=2077"/> 
+    <img width="32%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=leovieirad&theme=2077"/> 
+<div>
