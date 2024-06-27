@@ -1,5 +1,5 @@
 # Olá! eu sou o Leonardo Vieira 🤙
-## Um estudande de Ciência da Computação apaixonado por tecnologia, buscando aprender e desenvolver habilidades na área.
+### Um estudande de Ciência da Computação apaixonado por tecnologia, buscando aprender e desenvolver habilidades na área.
 
 
 # 🐱‍💻 Conecte-se comigo
