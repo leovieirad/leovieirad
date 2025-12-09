@@ -27,7 +27,9 @@
 
 # 🔎 Estatísticas do GitHub (GitHub Stats)
 <div>
-    <img width="66%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leovieirad&theme=2077"/> 
-    <img width="32%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=leovieirad&theme=2077"/> 
+    <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=leovieirad&theme=2077"/> 
+    <img width="33%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=leovieirad&theme=2077"/> 
+    <img width="33%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=leovieirad&theme=2077" />
+    <img width="33%"src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=leovieirad&theme=2077" />
 <div>
 
