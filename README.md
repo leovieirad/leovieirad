@@ -1,8 +1,9 @@
 # Olá! Eu sou o Leonardo Vieira 🤙
-### Um estudante de Ciência da Computação apaixonado por tecnologia, buscando aprender e desenvolver habilidades na área.
+### Desenvolvedor de software atuando com aplicações web e soluções com Inteligência Artificial, com experiência prática em ambiente de inovação no setor público.
+
 
 > Hello! I'm Leonardo Vieira 🤙  
-> A Computer Science student passionate about technology, eager to learn and develop skills in the field.
+> Software developer working on web applications and AI-driven solutions, with hands-on experience in an innovation lab within the public sector.
 
 ---
 
