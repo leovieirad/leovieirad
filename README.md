@@ -1,8 +1,8 @@
 # Olá! Eu sou o Leonardo Vieira 🤙
+> Hello! I'm Leonardo Vieira 🤙  
 ### Desenvolvedor de software atuando com aplicações web e soluções com Inteligência Artificial, com experiência prática em ambiente de inovação no setor público.
 
 
-> Hello! I'm Leonardo Vieira 🤙  
 > Software developer working on web applications and AI-driven solutions, with hands-on experience in an innovation lab within the public sector.
 
 ---
